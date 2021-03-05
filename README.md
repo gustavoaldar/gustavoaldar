@@ -1,4 +1,4 @@
-[![Gustavo Aldar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoaldar)](https://github.com/gustavoaldar/github-readme-stats)
+[![Gustavo Aldar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoaldar)](https://github.com/gustavoaldar)
 
 
 <!--
